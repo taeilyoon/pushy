@@ -1,0 +1,12 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.15" y="-0.15" width="39.7" height="39.7" rx="6.85" transform="matrix(1 0 0 -1 0 39.7)" fill="#F2F2F2" stroke="#9B9B9A" stroke-width="0.3"/>
+<line x1="4" y1="30.84" x2="36.25" y2="30.84" stroke="black" stroke-width="0.32" stroke-dasharray="3 3"/>
+<line x1="5.18961" y1="4.70581" x2="36.488" y2="24.8774" stroke="#EC1D24" stroke-width="0.7"/>
+<circle cx="1.5" cy="1.5" r="1.35" transform="matrix(1 0 0 -1 6 32)" fill="white" stroke="black" stroke-width="0.3"/>
+<circle cx="1.5" cy="1.5" r="1.35" transform="matrix(1 0 0 -1 17 32)" fill="white" stroke="black" stroke-width="0.3"/>
+<circle cx="1.5" cy="1.5" r="1.35" transform="matrix(1 0 0 -1 28 32)" fill="white" stroke="black" stroke-width="0.3"/>
+<circle cx="1.5" cy="1.5" r="1.35" transform="matrix(1 0 0 -1 23 19)" fill="white" stroke="black" stroke-width="0.3"/>
+<circle cx="1.5" cy="1.5" r="1.35" transform="matrix(1 0 0 -1 32 24)" fill="#F27321" stroke="white" stroke-width="0.3"/>
+<circle cx="1.5" cy="1.5" r="1.35" transform="matrix(1 0 0 -1 11 11)" fill="white" stroke="black" stroke-width="0.3"/>
+<path d="M7.5 29L12.5 11L18.5 29L24.5 19L29.5 29L33 24" stroke="black" stroke-width="0.3"/>
+</svg>

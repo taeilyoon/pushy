@@ -1,0 +1,11 @@
+<svg width="45" height="47" viewBox="0 0 45 47" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="44.85" y="46.85" width="39.7" height="39.7" rx="6.85" transform="rotate(180 44.85 46.85)" fill="white" stroke="#9B9B9A" stroke-width="0.3"/>
+<path d="M29.5 15L15.3032 40.1747" stroke="#BFBFBF" stroke-width="0.7" stroke-dasharray="3 3"/>
+<path d="M33.2 18.5L33.2 33" stroke="#655E07" stroke-width="0.4" stroke-dasharray="0.8 0.8"/>
+<line x1="37.2278" y1="22.2657" x2="16.2278" y2="40.2657" stroke="#BFBFBF" stroke-width="0.7" stroke-dasharray="3 3"/>
+<line x1="41.1067" y1="32.3333" x2="16.1067" y2="40.3333" stroke="black" stroke-width="0.7"/>
+<circle cx="33.5" cy="34.5" r="1.35" transform="rotate(180 33.5 34.5)" fill="#F27321" stroke="white" stroke-width="0.3"/>
+<rect x="31.15" y="21.15" width="3.7" height="9.7" fill="#D0CECE" stroke="#F50A0A" stroke-width="0.3" stroke-dasharray="0.4 0.4"/>
+<circle cx="8" cy="9.5" r="5" fill="#FFD233"/>
+<path d="M8.96619 12H7.82519V9.109C7.82519 9.02967 7.82519 8.93167 7.82519 8.815C7.82986 8.69833 7.83219 8.577 7.83219 8.451C7.83686 8.325 7.84152 8.213 7.84619 8.115C7.80886 8.143 7.75986 8.19433 7.69919 8.269C7.64319 8.34367 7.58486 8.40667 7.52419 8.458L6.99919 8.92L6.42519 8.283L7.98619 7.002H8.96619V12Z" fill="black"/>
+</svg>

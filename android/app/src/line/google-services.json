@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "863174772760",
+    "project_id": "line-teacher",
+    "storage_bucket": "line-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863174772760:android:74f3dada60fcebaae31b6d",
+        "android_client_info": {
+          "package_name": "kr.co.gtwins.pushy.line"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863174772760-147ou1rjcmlial72s84nadhctio4qglt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI35i99cRi-ZZRjp3DDQz6IKO7P2ql90E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863174772760-147ou1rjcmlial72s84nadhctio4qglt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863174772760-lmk7362bcqp4b9jh2f8hor9gg79k174p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.gtwins.pushy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

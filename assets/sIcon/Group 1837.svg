@@ -1,0 +1,12 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.15" y="-0.15" width="39.7" height="39.7" rx="6.85" transform="matrix(1 0 0 -1 0 39.7)" fill="white" stroke="#9B9B9A" stroke-width="0.3"/>
+<line x1="4.07338" y1="17.8578" x2="35.0734" y2="33.8578" stroke="black" stroke-width="0.32" stroke-dasharray="3 3"/>
+<line x1="3.99805" y1="9.65" x2="35.0021" y2="9.65" stroke="#EC1D24" stroke-width="0.7"/>
+<circle cx="1.5" cy="1.5" r="1.35" transform="matrix(1 0 0 -1 5 21)" fill="white" stroke="black" stroke-width="0.3"/>
+<circle cx="1.5" cy="1.5" r="1.35" transform="matrix(1 0 0 -1 15 26)" fill="white" stroke="black" stroke-width="0.3"/>
+<circle cx="1.5" cy="1.5" r="1.35" transform="matrix(1 0 0 -1 25 31)" fill="white" stroke="black" stroke-width="0.3"/>
+<circle cx="1.5" cy="1.5" r="1.35" transform="matrix(1 0 0 -1 20 11)" fill="white" stroke="black" stroke-width="0.3"/>
+<circle cx="1.5" cy="1.5" r="1.35" transform="matrix(1 0 0 -1 30 11)" fill="#F27321" stroke="white" stroke-width="0.3"/>
+<circle cx="1.5" cy="1.5" r="1.35" transform="matrix(1 0 0 -1 10 11)" fill="white" stroke="black" stroke-width="0.3"/>
+<path d="M7 18L11.5 11L16.5 23L21.5 11L26.5 28L31.5 11" stroke="black" stroke-width="0.3"/>
+</svg>
